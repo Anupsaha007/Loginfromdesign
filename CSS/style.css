@@ -1,0 +1,54 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	 font-family: "Montserrat", sans-serif;
+	font-size: 14px;
+	line- height: 24px;
+
+}
+h1 ,h2 ,h3 ,h4 , h5 ,h6 {
+	  font-family: "Poppins", sans-serif;
+}
+
+.wrapper{
+	width: 100%;
+}
+.login-form{
+	width: 400px;
+	margin: 10px auto;
+	padding: 40px;
+	border-radius: 15px;
+	border: 3px solid black;
+	background: #eee;
+}
+.avater{
+	width: 100%;
+	text-align: center ;
+}
+.user{
+	width: 60%;
+	height: 60%;
+	border-radius: 100%;
+}
+.form-group{
+	width: 100%;
+	margin: 10px 0px;
+}
+.form-group label{
+	display: block;
+	font-size: 14px;
+	line-height: 24px;
+	text-transform: uppercase;
+	font-weight: 500;
+	color: black;
+}
+.form-control{
+	width: 90%;
+	padding: 5PX;
+	font-size: 14px;
+	color: #777;
+	border-radius: 5px;
+	border: 2px solid black;
+}
